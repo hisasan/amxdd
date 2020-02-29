@@ -1,0 +1,23 @@
+{
+  "name": "amxdd",
+  "version": "0.1.0",
+  "description": "Receive AMX Device Discovery protocol beacon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisasan/amxdd.git"
+  },
+  "keywords": [
+    "AMX",
+    "AMXDD"
+  ],
+  "author": "Hisanobu Doi <hisasan@gmail.com> (https://github.com/hisasan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hisasan/amxdd/issues"
+  },
+  "homepage": "https://github.com/hisasan/amxdd#readme"
+}
